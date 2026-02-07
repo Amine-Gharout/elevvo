@@ -31,14 +31,7 @@ This repository contains machine learning and deep learning projects completed a
 - Bonus tasks are optional but considered during badge evaluation
 - They recognize exceptional effort and quality
 
----
 
-## 🏆 Optional Badges
-
-**Outstanding Contributor:** Awarded for exceptional quality while exceeding task requirements  
-**High Performer:** Granted for completing more tasks than required
-
----
 
 ## 📋 Completed Tasks Overview
 
