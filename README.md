@@ -11,34 +11,7 @@ This repository contains machine learning and deep learning projects completed a
 
 **This Repository Contains:** 3 completed tasks covering computer vision, audio classification, and customer analytics. Each project includes comprehensive exploratory data analysis, multiple modeling approaches, and detailed evaluations.
 
-**Current Status (as of February 7, 2026):**
-- ✅ 3 tasks completed (meets 2-week requirement, 1 task short of 1-month requirement)
-- ⏰ 12 days remaining until 2-week deadline (Feb 19)
-- ⏰ 28 days remaining until 1-month deadline (March 7)
 
----
-
-## 📅 Deadlines & Submission
-
-**Submission Deadlines:**
-- **2-week internship:** February 19, 2026 at 11:59 PM (Cairo time - GMT+2)
-- **1-month internship:** March 7, 2026 at 11:59 PM (Cairo time - GMT+2)
-
-**Submission Form:** [https://docs.google.com/forms/d/e/1FAIpQLSek6LfKSra5nBgbp8XlpZIfbOTDfX3HFKl5hUZmTlxBzq8_Hw/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSek6LfKSra5nBgbp8XlpZIfbOTDfX3HFKl5hUZmTlxBzq8_Hw/viewform?usp=header)
-
-**Submission Checklist:**
-- ✅ Complete minimum required tasks (3 for 2-week, 4 for 1-month)
-- ✅ Submit via official form before deadline
-- ✅ Share on LinkedIn with Elevvo tag
-- ✅ Include GitHub repository link
-- ✅ Add project description or demo
-
-**LinkedIn Sharing Requirement:**
-- Share your work on LinkedIn and tag the Elevvo page
-- Include a link to this GitHub repository
-- Add a brief description or screen recording showcasing your project
-
----
 
 ## 📚 Program Details
 
